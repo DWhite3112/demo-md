@@ -4,6 +4,13 @@ Demo Of Mark Down
 This it *italics* and this is __bold__
 and this is ***bold italics***
 
+We are going to define a function with two var: `x` and `y`
+```
+def swap(x,y):
+print(x,y)
+return(x,y)
+```
+
 This is a quote...
 >With great power
 >>comes currption
